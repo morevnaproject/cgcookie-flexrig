@@ -1,3 +1,6 @@
+2018-12-13
+- Add pose libraries for fingers - "Lib_Fingers.L" and "Lib_Fingers.R".
+
 2018-12-12
 - Create groups for each light set - "lights-cycles" and "lights-internal".
 - Store two basic character variations as actions - "character-default" and "character-woman-001".
