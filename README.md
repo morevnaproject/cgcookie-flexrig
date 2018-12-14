@@ -1,18 +1,19 @@
-IMPORTANT: This repository uses Git LFS, so make sure to have LFS extension installed before fetching.
+**IMPORTANT:** This repository uses Git LFS, so make sure to have LFS extension installed before fetching.
 
 ---
 
-Cookie Flex Rig
-version 1.2.3
+# Cookie Flex Rig
+
+**version 1.2.3**
 tested with Blender 2.67
 
 Created with the support of cgcookie.com
 
 Credits:
-    Beorn Leonard - modelling, rigging
-    Nathan Vegdahl - rigging, scripting
-    Jonathan Williamson - modelling, shaders
-    David Revoy - concept art
+- Beorn Leonard - modelling, rigging
+- Nathan Vegdahl - rigging, scripting
+- Jonathan Williamson - modelling, shaders
+- David Revoy - concept art
     
 License:
     Creative Commons Attribution 3.0 Unported 
