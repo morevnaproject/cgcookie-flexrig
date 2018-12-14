@@ -1,3 +1,6 @@
+2018-12-14
+- Add phoneme set for use with Rhubarb Lipsync software (Lib_PhonemesRhubarb).
+
 2018-12-13
 - Add pose libraries for fingers - "Lib_Fingers.L" and "Lib_Fingers.R".
 
