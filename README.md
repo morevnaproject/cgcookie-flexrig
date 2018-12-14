@@ -29,10 +29,10 @@ Use it to quickly generate your own characters for use in animation scenes.
 
 Layer guide:
 
-1-4:    the main meshes
-6-7:    the low res meshes
-9:      Cycles lights lighting setup
-10:     Blender Internal lighting setup
-11:     armature
-12:     lattices
-20:     widgets
+- 1-4:    the main meshes
+- 6-7:    the low res meshes
+- 9:      Cycles lights lighting setup
+- 10:     Blender Internal lighting setup
+- 11:     armature
+- 12:     lattices
+- 20:     widgets
