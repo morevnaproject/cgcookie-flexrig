@@ -1,4 +1,7 @@
- 
+IMPORTANT: This repository uses Git LFS, so make sure to have LFS extension installed before fetching.
+
+---
+
 Cookie Flex Rig
 version 1.2.3
 tested with Blender 2.67
