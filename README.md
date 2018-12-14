@@ -1,6 +1,6 @@
  
 Cookie Flex Rig
-version 1.2.2
+version 1.2.3
 tested with Blender 2.67
 
 Created with the support of cgcookie.com
